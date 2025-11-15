@@ -11,6 +11,9 @@ Hello! I am a professional programmer and network security specialist with over 
 - 🎨 VFX, 3D graphics, and animation  
 - 📚 Teaching and mentoring students and IT enthusiasts  
 
+[![Founder & CEO](https://img.shields.io/badge/Founder%20&%20CEO-Madresema-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]()  
+I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Unit**.
+
 > My goal is to create software and projects that are both innovative and of international quality.
 
 ---
@@ -83,7 +86,10 @@ Hello! I am a professional programmer and network security specialist with over 
 - 🛡️ امنیت شبکه و تست نفوذ (Penetration Testing)  
 - 🎮 بازی‌سازی با **Unity و Unreal Engine**  
 - 🎨 جلوه‌های ویژه، گرافیک سه‌بعدی و انیمیشن  
-- 📚 آموزش و تربیت دانشجویان و علاقه‌مندان به IT  
+- 📚 آموزش و تربیت دانشجویان و علاقه‌مندان به IT
+
+-  [![Founder & CEO](https://img.shields.io/badge/Founder%20&%20CEO-Madresema-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]()  
+همچنین من **موسس و مدیر عامل مدرسه ما - واحد فرهنگی نشر دیجیتال** هستم.
 
 > هدف من خلق نرم‌افزارها و پروژه‌هایی با کیفیت بین‌المللی و نوآورانه است.
 
