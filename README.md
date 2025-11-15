@@ -1,4 +1,4 @@
-![Cover]([URL-IMAGE-HERE](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/logo-madresema.ir.png))
+![Cover](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/logo-madresema.ir.png)
 # 👋 Welcome to My GitHub
 
 ## 🧑‍💻 Mahdi Zebardast Barzin  
