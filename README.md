@@ -121,7 +121,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 
 - **Port Scanner حرفه‌ای** – اسکن TCP/UDP با گزارش کامل **JSON و HTML**s
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/port-scanner
-- **Network Sniffer پیشرفته** – مانیتورینگ شبکه و تحلیل ترافیک به صورت زنده  
+- **Network Sniffer پیشرفته** – مانیتورینگ شبکه و تحلیل ترافیک به صورت زنده
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - **Mini Unity Game** – بازی ۲بعدی نمونه با مکانیک حرفه‌ای و اسکریپت‌های C#  
 - **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون  
 - **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ  
