@@ -50,7 +50,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Simple-2d-Platformer
 - **Python Automation Tools** – Collection of useful automation tools
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
-- **Professional Log Analyzer** – Log file analysis and reporting tool  
+- **Professional Log Analyzer** – Log file analysis and reporting tool
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
 
 > All projects are ready to run and defend in an international CV.
 
@@ -133,7 +134,9 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Simple-2d-Platformer
 - **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
-- **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ  
+- **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
+
 
 > تمام پروژه‌ها آماده اجرا و قابل دفاع در رزومه بین‌المللی هستند.
 
