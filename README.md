@@ -45,6 +45,7 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - **Advanced Network Sniffer** – Live network monitoring and traffic analysis
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
 - **Mini Unity Game** – Sample 2D game with professional mechanics and C# scripts  
 - **Python Automation Tools** – Collection of useful automation tools
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
@@ -126,6 +127,7 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - **Network Sniffer پیشرفته** – مانیتورینگ شبکه و تحلیل ترافیک به صورت زنده
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
+- - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
 - **Mini Unity Game** – بازی ۲بعدی نمونه با مکانیک حرفه‌ای و اسکریپت‌های C#  
 - **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
