@@ -46,7 +46,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
 - **Mini Unity Game** – Sample 2D game with professional mechanics and C# scripts  
-- **Python Automation Tools** – Collection of useful automation tools  
+- **Python Automation Tools** – Collection of useful automation tools
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
 - **Professional Log Analyzer** – Log file analysis and reporting tool  
 
 > All projects are ready to run and defend in an international CV.
@@ -126,7 +127,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
 - **Mini Unity Game** – بازی ۲بعدی نمونه با مکانیک حرفه‌ای و اسکریپت‌های C#  
-- **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون  
+- **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
 - **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ  
 
 > تمام پروژه‌ها آماده اجرا و قابل دفاع در رزومه بین‌المللی هستند.
