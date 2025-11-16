@@ -52,7 +52,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
 - **Professional Log Analyzer** – Log file analysis and reporting tool
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
-
+- **Next-Generation Social Network Platform
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Social-Network-Platform
 > All projects are ready to run and defend in an international CV.
 
 ---
@@ -136,7 +137,8 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
 - **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
-
+- **Next-Generation Social Network Platform - **پلتفرم شبکه اجتماعی نسل جدید
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Social-Network-Platform
 
 > تمام پروژه‌ها آماده اجرا و قابل دفاع در رزومه بین‌المللی هستند.
 
