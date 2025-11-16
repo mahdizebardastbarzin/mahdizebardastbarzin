@@ -154,7 +154,16 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - توسعه پروژه‌های **امنیت سایبری و شبکه**  
 - تولید بازی‌های **سه‌بعدی و دو‌بعدی با گیم‌پلی حرفه‌ای**  
 - آموزش و توسعه مهارت‌های جوانان در حوزه برنامه‌نویسی و گرافیک  
-- خلق **ابزارهای کاربردی و اتوماسیون**  
+- خلق **ابزارهای کاربردی و اتوماسیون** 
+
+---
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) to get started.
+
+## 🤝 مشارکت
+
+مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید.
 
 ---
 
