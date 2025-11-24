@@ -39,7 +39,7 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 ---
 
 ## 🚀 Featured Projects
--**CyberVault - Secure File Encryption** - A secure, client-side file encryption tool
+- **CyberVault - Secure File Encryption** - A secure, client-side file encryption tool
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/CYBER_VAULT-SECURE-ENCRYPTION-SYSTEM
 - **Professional Port Scanner** – TCP/UDP scanning with full **JSON and HTML** reports
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/port-scanner
@@ -128,7 +128,7 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 
 ## 🚀 پروژه‌های شاخص
 
--**CyberVault - رمزگذاری امن فایل** - یک ابزار رمزگذاری فایل امن و سمت کلاینت
+- **CyberVault - رمزگذاری امن فایل** - یک ابزار رمزگذاری فایل امن و سمت کلاینت
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/CYBER_VAULT-SECURE-ENCRYPTION-SYSTEM
 - **Port Scanner حرفه‌ای** – اسکن TCP/UDP با گزارش کامل **JSON و HTML**s
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/port-scanner
