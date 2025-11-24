@@ -135,7 +135,7 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 - **Network Sniffer پیشرفته** – مانیتورینگ شبکه و تحلیل ترافیک به صورت زنده
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
-- - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
+- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
 - **Mini Unity Game** – بازی ۲بعدی نمونه با مکانیک حرفه‌ای و اسکریپت‌های C#
 - ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Simple-2d-Platformer
 - **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون
