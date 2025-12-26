@@ -40,23 +40,21 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 
 ## 🚀 Featured Projects
 - **CyberVault - Secure File Encryption** - A secure, client-side file encryption tool
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/CYBER_VAULT-SECURE-ENCRYPTION-SYSTEM
+- 
 - **Professional Port Scanner** – TCP/UDP scanning with full **JSON and HTML** reports
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/port-scanner
+- 
 - **Advanced Network Sniffer** – Live network monitoring and traffic analysis
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
+
 - **Mini Unity Game** – Sample 2D game with professional mechanics and C# scripts
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Simple-2d-Platformer
+
 - **Python Automation Tools** – Collection of useful automation tools
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
+
 - **Professional Log Analyzer** – Log file analysis and reporting tool
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
+
 - **Next-Generation Social Network Platform
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Social-Network-Platform
+
 - **Divided Launcher Complete Terminal
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Divided-Launcher
+
 > All projects are ready to run and defend in an international CV.
 
 ---
@@ -129,23 +127,21 @@ I am also the **Founder & CEO of Madresema - Cultural and Digital Publishing Uni
 ## 🚀 پروژه‌های شاخص
 
 - **CyberVault - رمزگذاری امن فایل** - یک ابزار رمزگذاری فایل امن و سمت کلاینت
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/CYBER_VAULT-SECURE-ENCRYPTION-SYSTEM
+
 - **Port Scanner حرفه‌ای** – اسکن TCP/UDP با گزارش کامل **JSON و HTML**s
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/port-scanner
+
 - **Network Sniffer پیشرفته** – مانیتورینگ شبکه و تحلیل ترافیک به صورت زنده
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-sniffer
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/network-full-sniffer-NetScope-Pro
+
 - **Mini Unity Game** – بازی ۲بعدی نمونه با مکانیک حرفه‌ای و اسکریپت‌های C#
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Simple-2d-Platformer
+
 - **Python Automation Tools** – مجموعه ابزارهای کاربردی و اتوماسیون
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Python-Automation-Tools
+
 - **Log Analyzer حرفه‌ای** – ابزار تحلیل و گزارش‌گیری از فایل‌های لاگ
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Professional-Log-Analyzer
+
 - **Next-Generation Social Network Platform - **پلتفرم شبکه اجتماعی نسل جدید
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Social-Network-Platform
+
 - **Divided Launcher Complete Terminal
-- ![Demo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge) | https://github.com/mahdizebardastbarzin/Divided-Launcher
+
 
 > تمام پروژه‌ها آماده اجرا و قابل دفاع در رزومه بین‌المللی هستند.
 
